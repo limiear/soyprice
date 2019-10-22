@@ -3,7 +3,7 @@ requests==2.5.0
 lxml==3.6.0
 beautifulsoup4==4.3.2
 twython==3.2.0
-pillow==2.6.1
+pillow==6.2.0
 matplotlib==1.4.2
 goslate==1.4.0
 flask==0.10.1
